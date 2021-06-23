@@ -5,12 +5,12 @@ The purpose of this project is to analyze Amazon reviews written by members of t
 
 ## **Amazon Vine Analysis Results:**
  ### Vine Reviews
- ![Customer_Type](images/Customer_Type.PNG)
+ ![paidreviews_df](Images/paidreviews_df.PNG)
  - How many Vine reviews? 
  - How many Vine reviews were 5 stars? 
  - What percentage of Vine reviews were 5 stars? 
  ### Non-Vine Reviews 
- ![Customer_Type](images/Customer_Type.PNG)
+ ![unpaidreviews_df](Images/unpaidreviews_df.PNG)
  - How many non-vine reviews were there?
  - How many non-Vine reviews were 5 stars?
  - What percentage of non-Vine reviews were 5 stars?
