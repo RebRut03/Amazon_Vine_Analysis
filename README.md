@@ -8,17 +8,17 @@ The purpose of this project is to analyze Amazon reviews written by members of t
  
  ![paidreviews_df](Images/paidreviews_df.PNG)
  
- - The number of reviews written by paid Vine program members was 21.  
- - The number of five star reviews written by paid Vine program members 10. 
- - The percentage of Vine paid reviews that were 5 stars was 47.62%. 
+ - The number of reviews written by paid Vine program members was **21**.  
+ - The number of five star reviews written by paid Vine program members **10**. 
+ - The percentage of Vine paid reviews that were five stars was **47.62%**. 
  
  ### Non-Vine (Unpaid) Reviews 
  
  ![unpaidreviews_df](Images/unpaidreviews_df.PNG)
  
- - The number of reviews written by unpaid or non-Vine members was 6,690.  
- - The number of five star reviews written by unpaid or non-Vine members 3,448. 
- - The percentage of unpaid or non-Vine member reviews that were 5 stars was 51.54%.
+ - The number of reviews written by unpaid or non-Vine members was **6,690**.  
+ - The number of five star reviews written by unpaid or non-Vine members **3,448**. 
+ - The percentage of unpaid or non-Vine member reviews that were five stars was **51.54%**.
 
 
 ## **Amazon Vine Analysis Summary:** 
