@@ -9,7 +9,7 @@ The purpose of this project is to analyze Amazon reviews written by members of t
  ![paidreviews_df](Images/paidreviews_df.PNG)
  
  - The number of reviews written by paid Vine program members was **21**.  
- - The number of five star reviews written by paid Vine program members was **10**. 
+ - The number of five-star reviews written by paid Vine program members was **10**. 
  - The percentage of Vine paid reviews that were five stars was **47.62%**. 
  
  ### Non-Vine (Unpaid) Reviews 
@@ -17,12 +17,12 @@ The purpose of this project is to analyze Amazon reviews written by members of t
  ![unpaidreviews_df](Images/unpaidreviews_df.PNG)
  
  - The number of reviews written by unpaid or non-Vine customers was **6,690**.  
- - The number of five star reviews written by unpaid or non-Vine customers was **3,448**. 
+ - The number of five-star reviews written by unpaid or non-Vine customers was **3,448**. 
  - The percentage of unpaid or non-Vine customer reviews that were five stars was **51.54%**.
 
 
 ## **Amazon Vine Analysis Summary:** 
-There are far fewer luggage reviews written by paid Vine members (21) vs. unpaid Vine customers (6,690). If you solely look at the percentages of five start reviews as the benchmark, there is not a big difference so it doesn't appear that there's a positivty bias from paid Vine members.  My recommendation is that this needs to be explored further by doing an analysis on the one through four star ratings for vine members and non-vine customers.  I also recommend performing the same analysis of other products' datasets to determine if there are similar results.  
+There are far fewer luggage reviews written by paid Vine members (21) vs. unpaid Vine customers (6,690). If you solely look at the percentages of five-star reviews as the benchmark, there is not a big difference so it doesn't appear that there's a positivity bias from paid Vine members.  My recommendation is that this needs to be explored further by doing an analysis on the one-star through four-star ratings from vine members and non-vine customers.  I also recommend performing the same analysis of other products' datasets to determine if there are similar results.  
 
 
 
